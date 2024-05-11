@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hello
+=======
+H
+e
+l
+l
+o
+>>>>>>> feature2
